@@ -1,3 +1,11 @@
+/*
+ * Fauzan Raditya Irawan - 235150401111069
+ * M Takhta Ali Sulthon - 235150400111055
+ * 
+ * Sistem Informasi - E
+ */
+
+
 import processing.core.PApplet;
 
 public class MySketch extends PApplet {
