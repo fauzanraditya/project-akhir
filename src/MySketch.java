@@ -41,11 +41,7 @@ public class MySketch extends PApplet {
             }
         }
         delay(500);
-
-        // background(25, 25, 112);
-
         gunung();
-        // bulan();
         jalan();
         lahan();
         rumah();
@@ -116,13 +112,6 @@ public class MySketch extends PApplet {
         arc(130, 330, 400, 230, (180 * PI) / 180, (360 * PI) / 180);
         fill(0, 132, 0);
         arc(320, 330, 400, 230, (180 * PI) / 180, (360 * PI) / 180);
-
-    }
-
-    public void bulan() {
-        // Bulan
-        fill(255, 255, 176);
-        ellipse(40, 90, 80, 80);
 
     }
 
